@@ -17,7 +17,7 @@ The **Codeforces Rating Predictor** is a machine learning model designed to esti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone git
+   git clone git https://github.com/Harsh-sinha42/CP-Rank_Prediction.git
    ```
 2. Navigate to the Project Directory
    ```bash
@@ -28,7 +28,3 @@ The **Codeforces Rating Predictor** is a machine learning model designed to esti
    pthon main.py
    ```
 
-## Images
-
-
-## Extension Version
