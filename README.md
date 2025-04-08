@@ -10,6 +10,10 @@ The **Codeforces Rating Predictor** is a machine learning model designed to esti
 - **Customizable Factors:** Allows adding or removing variables to tailor the prediction model.
 
 
+DEPLOYMENT LINK
+
+https://cp-rank-prediction.vercel.app/
+
 ## Technologies Used
 - Python
 - Flask
